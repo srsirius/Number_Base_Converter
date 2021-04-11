@@ -1,0 +1,43 @@
+# Project exclude paths
+/.gradle/
+/Number Base Converter/task/build/
+/Number Base Converter/task/out/
+/Number Base Converter/task/out/production/classes/
+/Problems/Compression algorithm/out/
+/Problems/Compression algorithm/out/production/classes/
+/Problems/Create an euphonious word/out/
+/Problems/Create an euphonious word/out/production/classes/
+/Problems/Cutting out the middle of a string/out/
+/Problems/Cutting out the middle of a string/out/production/classes/
+/Problems/Generating passwords/out/
+/Problems/Generating passwords/out/production/classes/
+/Problems/Lucky number/out/
+/Problems/Lucky number/out/production/classes/
+/Problems/Move the first N characters/out/
+/Problems/Move the first N characters/out/production/classes/
+/Problems/Number of occurrences/out/
+/Problems/Number of occurrences/out/production/classes/
+/Problems/Parse url/out/
+/Problems/Parse url/out/production/classes/
+/Problems/Piece of alphabet/out/
+/Problems/Piece of alphabet/out/production/classes/
+/Problems/The longest word/out/
+/Problems/The longest word/out/production/classes/
+/Problems/The percentage of G and C characters/out/
+/Problems/The percentage of G and C characters/out/production/classes/
+/Topics/BigDecimal/Average/out/
+/Topics/BigDecimal/Average/out/production/classes/
+/Topics/BigDecimal/Deposit/out/
+/Topics/BigDecimal/Deposit/out/production/classes/
+/Topics/BigDecimal/Multiplication/out/
+/Topics/BigDecimal/Multiplication/out/production/classes/
+/Topics/BigDecimal/Rounding with a given precision/out/
+/Topics/BigDecimal/Rounding with a given precision/out/production/classes/
+/Topics/BigInteger/Division/out/
+/Topics/BigInteger/Division/out/production/classes/
+/Topics/BigInteger/LCM/out/
+/Topics/BigInteger/LCM/out/production/classes/
+/Topics/BigInteger/Percentage/out/
+/Topics/BigInteger/Percentage/out/production/classes/
+/Topics/BigInteger/Simple expression/out/
+/Topics/BigInteger/Simple expression/out/production/classes/
